@@ -11,6 +11,7 @@
 | 2026-03-09 | GraSP-VLA: Graph-based Symbolic Action Representation for Long-Horizon Planning with VLA Policies | arXiv:2511.04357 |
 | 2026-03-09 | Graph-Fused Vision-Language-Action for Policy Reasoning in Multi-Arm Robotic Manipulation | arXiv:2509.07957 |
 | 2026-03-09 | GraphCoT-VLA: A 3D Spatial-Aware Reasoning Vision-Language-Action Model for Robotic Manipulation with Ambiguous Instructions | arXiv:2508.07650 |
+| 2026-03-10 | UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph | arXiv:2602.13086 |
 
 ---
 
@@ -22,4 +23,4 @@
 
 ---
 
-*最后更新：2026-03-09*
+*最后更新：2026-03-10*
